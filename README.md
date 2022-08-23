@@ -1,4 +1,4 @@
-# MorganeTressens
+# Morgane Tressens
 This is the repo of my custom profile
 - 👋 Hi, I’m @MorganeT84
 - 👀 I’m interested in new technologies
